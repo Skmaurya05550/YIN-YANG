@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Yin Yang ☯️](https://ibb.co/Q8wTd5b)
+![Yin Yang ☯️](https://i.ibb.co/p3ZQNwr/IMG-20241005-232015.jpg)
 
 # Skm@555 - Yin Yang ☯️ CSS Animation
 
