@@ -1,4 +1,4 @@
-# Follow - [https://skmaurya05550.github.io/]
+# Follow - [https://github.com/skmaurya05550/]
 
 # Skm@555 - Yin Yang ☯️ CSS Animation
 
