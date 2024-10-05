@@ -1,6 +1,6 @@
 # Follow - [https://github.com/skmaurya05550/]
 
-![Welcome Banner](https://ibb.co/qR9ChjF)
+# Image -:(https://ibb.co/qR9ChjF)
 
 # Skm@555 - Yin Yang ☯️ CSS Animation
 
